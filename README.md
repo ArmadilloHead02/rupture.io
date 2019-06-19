@@ -1,14 +1,14 @@
 # rupture.io
 
 # Scratch Links
-Rupture.io Beta 1: https://scratch.mit.edu/projects/151596241/ </br>
-Rupture.io Beta 2: https://scratch.mit.edu/projects/152368488/
-Rupture.io Beta 3 Build 1: https://scratch.mit.edu/projects/160285282/
-Rupture.io Beta 3 Build 2: https://scratch.mit.edu/projects/166269693/
-Rupture.io Beta 3 Build 3: https://scratch.mit.edu/projects/168954082/
+Rupture.io Beta 1: https://scratch.mit.edu/projects/151596241/  </br>
+Rupture.io Beta 2: https://scratch.mit.edu/projects/152368488/ </br>
+Rupture.io Beta 3 Build 1: https://scratch.mit.edu/projects/160285282/ </br>
+Rupture.io Beta 3 Build 2: https://scratch.mit.edu/projects/166269693/ </br>
+Rupture.io Beta 3 Build 3: https://scratch.mit.edu/projects/168954082/ </br>
 
 # Version system
-Pre-release versions will use the following version system
+Pre-release versions will use the following version system </br>
 Beta x Build y
 
 Release versions will use something similar to the semantic versioning system, more information can be found here: https://semver.org/
