@@ -1,5 +1,12 @@
 # rupture.io
 
+# Game Keybinds
+space - start game  </br>
+e - end game </br>
+r - reset variables (ruptures, deaths, boost) </br>
+z - boost on </br>
+x - boost off </br>
+
 # Scratch Links
 Rupture.io Beta 1: https://scratch.mit.edu/projects/151596241/  </br>
 Rupture.io Beta 2: https://scratch.mit.edu/projects/152368488/ </br>
