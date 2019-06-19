@@ -1,7 +1,7 @@
 # rupture.io
 
 # Scratch Links
-Rupture.io Beta 1: https://scratch.mit.edu/projects/151596241/
+Rupture.io Beta 1: https://scratch.mit.edu/projects/151596241/ </br>
 Rupture.io Beta 2: https://scratch.mit.edu/projects/152368488/
 Rupture.io Beta 3 Build 1: https://scratch.mit.edu/projects/160285282/
 Rupture.io Beta 3 Build 2: https://scratch.mit.edu/projects/166269693/
@@ -18,8 +18,7 @@ Not currently available as I have only just revived the project, I will be prior
 
 # Beta 3 build 3
 Most recent version and the last version before the rewrite
-Download ruptureiob3b3.exe for windows
-Download ruptureiob3b3.jar for Mac/Linux (requires java)
+Due to Scratch changing rupture.io from a .sb formot (Scratch 1.4) to a .sb3 (Scratch 3) I will be unable to convert it to a .exe or a .jar and therefore if you want to play this version you will have to play it through scratch.mit.edu
 
 # Beta 4
 Will be a complete rewrite of the game, I will be working on that over the next few days (as of 19/06/2019). Expect beta 4 build 1 within a week.
