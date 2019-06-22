@@ -16,7 +16,10 @@ Rupture.io Beta 3 Build 3: https://scratch.mit.edu/projects/168954082/ </br>
 
 # Version system
 Pre-release versions will use the following version system </br>
-Beta x Build y
+Beta x Build y </br>
+The downloads for versions will be structured as follows...
+ruptureiobxby </br>
+With x being the beta number and y being the build number.
 
 Release versions will use something similar to the semantic versioning system, more information can be found here: https://semver.org/
 
