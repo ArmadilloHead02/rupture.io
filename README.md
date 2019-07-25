@@ -28,7 +28,10 @@ Not currently available as I have only just revived the project, I will be prior
 
 # Beta 3 build 3
 Most recent version and the last version before the rewrite
-Due to Scratch changing rupture.io from a .sb formot (Scratch 1.4) to a .sb3 (Scratch 3) I will be unable to convert it to a .exe or a .jar and therefore if you want to play this version you will have to play it through scratch.mit.edu
+Due to Scratch changing rupture.io from a .sb format (Scratch 1.4) to a .sb3 (Scratch 3) I will be unable to convert it to a .exe or a .jar and therefore if you want to play this version you will have to play it through scratch.mit.edu
 
 # Beta 4
 Will be a complete rewrite of the game, I will be working on that over the next few days (as of 19/06/2019). Expect beta 4 build 1 within a week. As a result of the rewrite, many features will be missing from Beta 4 Build 1 and will be added as time goes on, this is mostly due to my terrible code writing and the fact that since it has been 3 years since I last saw the code, I probably won't understand what I was thinking.
+
+# Beta 5
+Will also be known as the customisation update, I plan to add the ability to customise backgrounds, UI, music and skins.
