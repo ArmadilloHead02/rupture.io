@@ -35,3 +35,9 @@ Will be a complete rewrite of the game, I will be working on that over the next 
 
 # Beta 5
 Will also be known as the customisation update, I plan to add the ability to customise backgrounds, UI, music and skins.
+
+# Final Release
+Fixed an issue with hitboxes but added nothing notable. The game left the beta phase.
+
+# Releasing source code
+I have decided to stop working on Rupture.io, however, I have released the scratch 1.4 source code so that anyone may continue to develop rupture.io or mod it to any extent
